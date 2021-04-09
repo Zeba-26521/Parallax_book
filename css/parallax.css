@@ -1,0 +1,40 @@
+div{
+    height: 700px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    margin: 0;
+    padding: 0; 
+    font-family: 'Kiwi Maru', serif;
+    font-size: 1 em;
+    
+    
+}
+h1{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width:500px%;
+    background-color: #ee5f3d;
+    font-family: 'Lobster', cursive;
+    color: white;
+}
+
+
+.center{
+margin: 0 auto;
+padding-top:250px;
+height:10px;
+width: 700px;
+}
+section{
+    border: 2px solid orange;
+}
+li{
+    text-align: start;
+    font-family: 'Kiwi Maru', serif;
+}
